@@ -1,21 +1,30 @@
-img {
-    width: 250px;
-    margin-left: 650px;
-    margin-right: 800px;
-    padding-top: 20px;
-    border-radius: 80px;
-    
+#header {
+    background-image: url("backgroundLogo1.png");
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-size: 100%;
+    padding-bottom: 900px;
 }
 
-#header {
-    background-image: url("massageFLower.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: 0px;
+/*#header img #logo {
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10%;
+}*/
+
+img {
+    margin-left: 700px;
+    margin-right: 700px;
+    padding-top: 10px;
+    width: 150px;
 }
 
 body {
-    background-color: papayawhip;
+   background-color: rgb(255, 255, 255);
+   /*background-image: url("backgroundLogo.png");
+   background-size: cover;
+   background-position: 0px;*/
 }
 
 h2, p {
@@ -50,5 +59,7 @@ h2, p {
   #pages {
       text-align: center;
   }
+
+
 
  
