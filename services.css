@@ -1,8 +1,3 @@
-body {
-    background-color: rgb(255, 255, 255);
-    min-width: 400px;
- }
-
 #header {
     background-image: url("images/backgroundLogo2.png");
     background-repeat: no-repeat;
@@ -10,6 +5,20 @@ body {
     background-size: 100%;
     padding-bottom: 60%;
     margin-top: 0px;
+}
+
+/*img #header #logo {
+    width: 100px;
+    margin-left: 100px;
+    margin-right: 500px;
+    padding-top: 10%;
+}*/
+
+body {
+   background-color: rgb(255, 255, 255);
+   /*background-image: url("backgroundLogo.png");
+   background-size: cover;
+   background-position: 0px;*/
 }
 
 #pages {
@@ -29,11 +38,12 @@ p {
 }
 
 img {
-    border-radius: 15px;
     margin-left: auto;
     margin-right: auto;
-    width: 500px;
-    height: 500px;
+    margin-top: 20px;
+    border-radius: 10px;
+    width: 700px;
+    height: 800px;
     display: flex;
     justify-content: center;
 }
@@ -58,7 +68,6 @@ img {
       text-align: center;
       padding-top: 30px;
   }
-
 
 
 

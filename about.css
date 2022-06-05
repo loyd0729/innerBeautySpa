@@ -1,10 +1,21 @@
+body {
+    background-color: rgb(255, 255, 255);
+    min-width: 400px;
+ }
+
 #header {
-    background-image: url("backgroundLogo2.png");
+    background-image: url("images/backgroundLogo2.png");
     background-repeat: no-repeat;
     background-position: cover;
     background-size: 100%;
     padding-bottom: 60%;
     margin-top: 0px;
+}
+
+#pages {
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Joan', serif;
 }
 
 /*img #header #logo {
@@ -14,27 +25,26 @@
     padding-top: 10%;
 }*/
 
-body {
-   background-color: rgb(255, 255, 255);
-   /*background-image: url("backgroundLogo.png");
-   background-size: cover;
-   background-position: 0px;*/
-}
-
 h2, p {
     text-align: center;
     color: rgb(87, 0, 128);
+    font-family: 'Joan', serif;
 }
 
-#founderCeo {
+/*#founderCeo {
     padding-top: 0px;
     padding-left: 45%;
     padding-right: 45%;
-}
+}*/
 
 img {
-    border-radius: 5%;
-    width: 10%;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
 }
 
 .fa:hover {
@@ -54,13 +64,13 @@ img {
   }
 
   footer {
-      text-align: center;
       padding-top: 30px;
+      text-align: center;
   }
 
-  #pages {
-      text-align: center;
-  }
+  p {
+    font-size: 18px;
+}
 
 
 
