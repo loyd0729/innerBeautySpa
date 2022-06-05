@@ -18,24 +18,11 @@ body {
     font-family: 'Joan', serif;
 }
 
-/*img #header #logo {
-    width: 100px;
-    margin-left: 100px;
-    margin-right: 500px;
-    padding-top: 10%;
-}*/
-
 h2, p {
     text-align: center;
     color: rgb(87, 0, 128);
     font-family: 'Joan', serif;
 }
-
-/*#founderCeo {
-    padding-top: 0px;
-    padding-left: 45%;
-    padding-right: 45%;
-}*/
 
 img {
     border-radius: 15px;
@@ -44,7 +31,6 @@ img {
     width: 250px;
     height: 300px;
     display: flex;
-    justify-content: center;
 }
 
 .fa:hover {
