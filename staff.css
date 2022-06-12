@@ -31,14 +31,14 @@ body {
     margin-top: 20px;
     margin-right: 50px;
     margin-left: 20px;
-    width: 200px;
-    height: 300px;
+    width: 25%;
+    height: 80%;
 }
 
 #niz-profile-pic {
     margin-top: 20px;
-    width: 300px;
-    height: 300px;
+    width: 32%;
+    height: 80%;
     margin-right: 50px;
     margin-left: 20px;
 }
@@ -51,7 +51,7 @@ body {
     border: 2px solid #fff;
     color: rgb(87, 0, 128);
     font-family: 'Joan', serif;
-    width: 720px;
+    width: 50%;
     height: 350px;
     display: flex;
     justify-content: space-around;
