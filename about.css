@@ -18,6 +18,14 @@ body {
     font-family: 'Joan', serif;
 }
 
+#navigation:hover {
+    color: #125688;
+}
+
+#navigation:active {
+    color: blue;
+}
+
 h2, p {
     text-align: center;
     color: rgb(87, 0, 128);
@@ -31,10 +39,6 @@ img {
     width: 250px;
     height: 300px;
     display: flex;
-}
-
-.fa:hover {
-    opacity: 0.7;
 }
 
 .fa-facebook {
