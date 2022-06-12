@@ -57,6 +57,7 @@ img {
     background: #3B5998;
     color: white;
     width: 30px;
+    margin-top: 50px;
   }
 
   .fa-instagram {
@@ -67,7 +68,6 @@ img {
 
   footer {
       text-align: center;
-      padding-top: 30px;
   }
 
 

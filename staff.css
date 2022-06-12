@@ -31,14 +31,16 @@ body {
     margin-top: 20px;
     margin-right: 50px;
     margin-left: 20px;
-    width: 25%;
-    height: 80%;
+    width: 35%;
+    height: 70%;
+    border-radius: 20px;
 }
 
 #niz-profile-pic {
     margin-top: 20px;
-    width: 32%;
+    width: 35%;
     height: 80%;
+    border-radius: 25px;
     margin-right: 50px;
     margin-left: 20px;
 }
@@ -51,16 +53,17 @@ body {
     border: 2px solid #fff;
     color: rgb(87, 0, 128);
     font-family: 'Joan', serif;
-    width: 50%;
-    height: 350px;
+    width: 45%;
+    height: 35%;
     display: flex;
     justify-content: space-around;
     background-color: #fff;
     border-radius: 20px;
 }
 
-.dimplea, .uniza {
+.dimplea {
     padding: 15px 10px;
+    margin-right: 50ox;
 }
 
 h2, p {
@@ -69,30 +72,24 @@ h2, p {
     font-family: 'Joan', serif;
 }
 
-iframe {
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
-    
-}
-
 p {
     font-size: 18px;
 }
 
-img {
+/* img {
     border-radius: 10px;
     margin-left: auto;
     margin-right: auto;
-    width: 15%;
+    width: %;
     height: 15%;
     display: flex;
-}
+} */
 
 .fa-facebook {
     background: #3B5998;
     color: white;
     width: 30px;
+    margin-top: 100px;
   }
 
   .fa-instagram {
