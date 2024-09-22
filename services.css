@@ -23,14 +23,13 @@ body {
 }
 
 .sticky {
-    position: fixed;
-    top: 0;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Joan', serif;
 }
 
 #navigation {
-     text-align: center;
-    font-size: 18px;
-    font-family: 'Joan', serif;
+    
 }
 
 #navigation:hover {
