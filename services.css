@@ -26,6 +26,8 @@ body {
     text-align: center;
     font-size: 18px;
     font-family: 'Joan', serif;
+    position: fixed;
+    top: 0;
 }
 
 #navigation:hover {
