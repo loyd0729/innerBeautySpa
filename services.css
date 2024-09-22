@@ -22,7 +22,7 @@ body {
    background-position: 0px;*/
 }
 
-#pages {
+.sticky {
     text-align: center;
     font-size: 18px;
     font-family: 'Joan', serif;
