@@ -1,3 +1,6 @@
+body {
+    margin: auto 0;
+}
 #header {
     background-image: url("backgroundLogo2.png");
     background-repeat: no-repeat;
